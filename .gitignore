@@ -1,0 +1,10 @@
+*.log
+relay.log
+stdout.log
+stderr.log
+authkey.txt
+*.env
+.env
+**/authkey.txt
+Thumbs.db
+.DS_Store
